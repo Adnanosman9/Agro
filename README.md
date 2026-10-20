@@ -4,7 +4,7 @@
 
 </div>
 
-Agrowise is a web app built to make the farming with proper situation and environmental data instead guessing. By analyzing soil NPK alongside real-time local weather data, the web runs classifications through the ML model to recommend the most optimal crop for a specific field.
+Agrowise is a website built to make the farming with proper situation and environmental info instead guessing. By analyzing soil NPK with real-time local weather data, the web runs classifications through the ML model to recommend the best crop for a specific field.
 
 **Live Website:** https://agro-wa64.onrender.com/
 
