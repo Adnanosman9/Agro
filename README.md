@@ -28,13 +28,14 @@ The biggest roadblock was managing the API calls for live weather. Connecting th
 
 ## Resources 
 
-Drop data was downloaded from kaggle.com
+Crop data was downloaded from kaggle.com
 
 ## Project Status & Next Steps 
 
 I am actively building out the following features in my local environment to push over the coming days:
-* **Voice Commands Integration:** Building an audio overlay so users can speak their soil values aloud instead of typing them into form inputs.
-* **Expanded Agricultural APIs:** Integrating historical rainfall data logs and soil degradation index endpoints to make the model predictions even more precise over a long-term calendar year.
+* User authentication and database integration to save user details. 
+* Building an audio overlay so users can speak their soil values aloud instead of typing them into form inputs.
+* Integrating other necessary APIs to make it more user friedlyy
 
 ## License
 MIT
